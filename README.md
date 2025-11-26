@@ -2,7 +2,7 @@
 
 A professional data visualization and analytics dashboard with AI-powered insights. Upload CSV files and generate interactive charts with automated data analysis.
 
-![Data Analytics Dashboard](public/favicon.png)
+
 
 ## 🚀 Live Demo
 
